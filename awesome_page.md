@@ -1,7 +1,7 @@
 # Awesome Page
 
 *Coders
-*DevBoot
+
 *Phase0
 *This is **awesome**
 
