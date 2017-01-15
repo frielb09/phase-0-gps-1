@@ -1,7 +1,6 @@
 # Awesome Page
 
 *Coders
-*DevBootCamp
 *Phase0
 *This is **awesome**
 
