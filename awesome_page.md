@@ -9,6 +9,6 @@
 
         Awesome Code Block
 
-Here is an awesome [link](www.devbootcamp.com).
+Here is an awesome [link](https://devbootcamp.com).
 
-Here is us working together ![working]
+Here is us working together ![alt text](https://github.com/frielb09/phase-0-gps-1/blob/master/working.png "Working Together")
